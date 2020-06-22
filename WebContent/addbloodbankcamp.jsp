@@ -86,7 +86,7 @@ font-size: 16px;"> &nbsp; <a href="index.jsp" class="btn btn-danger square-btn-a
                 
                 <div class="form-group row">
                 <input type="hidden" name="action" value="add"/>
-    			<label for="inputEmail3" class="col-sm-3 form-control-label">BloodBank Camp days</label>
+    			<label for="inputEmail3" class="col-sm-3 form-control-label">BloodBank Camp Days</label>
                   <div class="col-sm-9">
                     <textarea cols="7" rows="1" class="form-control" name="nod1" placeholder="Enter Account Holder Name" required></textarea>
                   </div>
